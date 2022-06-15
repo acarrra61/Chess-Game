@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Chess>
+    <users></users>
+    <pieces>
+        <piece color="white" locationX="a" locationY="1" play="True">rook</piece>
+        <piece color="white" locationX="h" locationY="1" play="True">rook</piece>
+        <piece color="white" locationX="a" locationY="2" play="True">pawn</piece>
+        <piece color="white" locationX="b" locationY="2" play="True">pawn</piece>
+        <piece color="white" locationX="c" locationY="2" play="True">pawn</piece>
+        <piece color="white" locationX="d" locationY="2" play="True">pawn</piece>
+        <piece color="white" locationX="e" locationY="2" play="True">pawn</piece>
+        <piece color="white" locationX="f" locationY="2" play="True">pawn</piece>
+        <piece color="white" locationX="g" locationY="2" play="True">pawn</piece>
+        <piece color="white" locationX="h" locationY="2" play="True">pawn</piece>
+        <piece color="white" locationX="b" locationY="1" play="True">knight</piece>
+        <piece color="white" locationX="g" locationY="1" play="True">knight</piece>
+        <piece color="white" locationX="c" locationY="1" play="True">bishop</piece>
+        <piece color="white" locationX="f" locationY="1" play="True">bishop</piece>
+        <piece color="white" locationX="d" locationY="1" play="True">queen</piece>
+        <piece color="white" locationX="e" locationY="1" play="True">king</piece>
+        <piece color="black" locationX="a" locationY="8" play="True">rook</piece>
+        <piece color="black" locationX="h" locationY="8" play="True">rook</piece>
+        <piece color="black" locationX="a" locationY="7" play="True">pawn</piece>
+        <piece color="black" locationX="b" locationY="7" play="True">pawn</piece>
+        <piece color="black" locationX="c" locationY="7" play="True">pawn</piece>
+        <piece color="black" locationX="d" locationY="7" play="True">pawn</piece>
+        <piece color="black" locationX="e" locationY="7" play="True">pawn</piece>
+        <piece color="black" locationX="f" locationY="7" play="True">pawn</piece>
+        <piece color="black" locationX="g" locationY="7" play="True">pawn</piece>
+        <piece color="black" locationX="h" locationY="7" play="True">pawn</piece>
+        <piece color="black" locationX="b" locationY="8" play="True">knight</piece>
+        <piece color="black" locationX="g" locationY="8" play="True">knight</piece>
+        <piece color="black" locationX="c" locationY="8" play="True">bishop</piece>
+        <piece color="black" locationX="f" locationY="8" play="True">bishop</piece>
+        <piece color="black" locationX="d" locationY="8" play="True">queen</piece>
+        <piece color="black" locationX="e" locationY="8" play="True">king</piece>
+    </pieces>
+</Chess>
